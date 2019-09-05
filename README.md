@@ -1,5 +1,5 @@
 # CNN-Example-Google-Colaboratory
-Google Colab Jupyter Notebook containing CNN and Fashion MNIST Example from this (blogpost)[https://www.bouvet.no/bouvet-deler/understanding-convolutional-neural-networks-part-2].
+Google Colab Jupyter Notebook containing CNN and Fashion MNIST Example from this (https://www.bouvet.no/bouvet-deler/understanding-convolutional-neural-networks-part-2)[blogpost].
 
 # Opening the Notebook in Google Colab
 
