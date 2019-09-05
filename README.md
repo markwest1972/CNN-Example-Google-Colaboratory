@@ -9,4 +9,4 @@ Google Colab Notebook containing CNN and Fashion MNIST Example
 
 ## Alternatively
 
-Use this link to open the Notebook in Colab: <a href=\"https://colab.research.google.com/github/markwest1972/CNN-Example-Google-Colaboratory/blob/master/CNN_Fashion_MNIST_Example.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+Use this link to open the Notebook in Colab: https://colab.research.google.com/github/markwest1972/CNN-Example-Google-Colaboratory/blob/master/CNN_Fashion_MNIST_Example.ipynb.
